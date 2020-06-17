@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://chuanputer.github.io/"/>
-  <updated>2020-06-17T13:19:02.252Z</updated>
+  <updated>2020-06-17T15:14:49.959Z</updated>
   <id>http://chuanputer.github.io/</id>
   
   <author>
@@ -15,6 +15,21 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>锤子手机与我</title>
+    <link href="http://chuanputer.github.io/2020/06/17/%E9%94%A4%E5%AD%90%E6%89%8B%E6%9C%BA%E4%B8%8E%E6%88%91/"/>
+    <id>http://chuanputer.github.io/2020/06/17/%E9%94%A4%E5%AD%90%E6%89%8B%E6%9C%BA%E4%B8%8E%E6%88%91/</id>
+    <published>2020-06-17T15:14:49.000Z</published>
+    <updated>2020-06-17T15:14:49.959Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>外设定制之鼠标</title>
@@ -32,54 +47,25 @@
   </entry>
   
   <entry>
-    <title>老罗与锤</title>
-    <link href="http://chuanputer.github.io/2020/06/17/%E8%80%81%E7%BD%97%E4%B8%8E%E9%94%A4/"/>
-    <id>http://chuanputer.github.io/2020/06/17/%E8%80%81%E7%BD%97%E4%B8%8E%E9%94%A4/</id>
-    <published>2020-06-17T13:16:52.000Z</published>
-    <updated>2020-06-17T13:16:52.183Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-    
-  </entry>
-  
-  <entry>
     <title>浅谈游戏QQ飞车的起与终</title>
-    <link href="http://chuanputer.github.io/2020/06/17/%E6%B5%85%E8%B0%88%E6%B8%B8%E6%88%8FQQ%E9%A3%9E%E8%BD%A6%E7%9A%84%E8%B5%B7%E4%B8%8E%E7%BB%88/"/>
-    <id>http://chuanputer.github.io/2020/06/17/%E6%B5%85%E8%B0%88%E6%B8%B8%E6%88%8FQQ%E9%A3%9E%E8%BD%A6%E7%9A%84%E8%B5%B7%E4%B8%8E%E7%BB%88/</id>
-    <published>2020-06-17T13:13:10.000Z</published>
-    <updated>2020-06-17T13:13:10.150Z</updated>
+    <link href="http://chuanputer.github.io/2018/11/11/%E6%B5%85%E8%B0%88%E6%B8%B8%E6%88%8FQQ%E9%A3%9E%E8%BD%A6%E7%9A%84%E8%B5%B7%E4%B8%8E%E7%BB%88/"/>
+    <id>http://chuanputer.github.io/2018/11/11/%E6%B5%85%E8%B0%88%E6%B8%B8%E6%88%8FQQ%E9%A3%9E%E8%BD%A6%E7%9A%84%E8%B5%B7%E4%B8%8E%E7%BB%88/</id>
+    <published>2018-11-11T14:00:10.000Z</published>
+    <updated>2020-06-17T15:15:34.259Z</updated>
+    
+    <content type="html"><![CDATA[<p>2008年1月23日QQ飞车上线，十年之后，2018年回头看飞车的兴与衰！</p><a id="more"></a>]]></content>
     
     <summary type="html">
+    
+      &lt;p&gt;2008年1月23日QQ飞车上线，十年之后，2018年回头看飞车的兴与衰！&lt;/p&gt;
     
     </summary>
     
     
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="http://chuanputer.github.io/2020/06/17/hello-world/"/>
-    <id>http://chuanputer.github.io/2020/06/17/hello-world/</id>
-    <published>2020-06-17T10:21:01.078Z</published>
-    <updated>2020-06-17T10:21:01.078Z</updated>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
-      
-    
-    </summary>
+      <category term="campus" scheme="http://chuanputer.github.io/categories/campus/"/>
     
     
+      <category term="游戏 QQ飞车" scheme="http://chuanputer.github.io/tags/%E6%B8%B8%E6%88%8F-QQ%E9%A3%9E%E8%BD%A6/"/>
     
   </entry>
   
@@ -88,9 +74,9 @@
     <link href="http://chuanputer.github.io/2018/09/02/%E5%A4%96%E8%AE%BE%E5%AE%9A%E5%88%B6%E4%B9%8B%E6%9C%BA%E6%A2%B0%E9%94%AE%E7%9B%98/"/>
     <id>http://chuanputer.github.io/2018/09/02/%E5%A4%96%E8%AE%BE%E5%AE%9A%E5%88%B6%E4%B9%8B%E6%9C%BA%E6%A2%B0%E9%94%AE%E7%9B%98/</id>
     <published>2018-09-02T07:22:42.000Z</published>
-    <updated>2020-06-17T14:53:23.434Z</updated>
+    <updated>2020-06-17T14:58:48.825Z</updated>
     
-    <content type="html"><![CDATA[<p><font size=3>&#160; &#160; &#160; &#160;机械键盘最大的乐趣来源于其可定制性，我们可以选择不同的键帽更换不同的轴体，甚至在某些情况下还可以更换机械键盘的USB线缆或微动控制器，完全打造一台属于自己的机械键盘。<br></font></p><a id="more"></a><p><font size=3>制作机械键盘需要的零件可能很贵，并且还需做很多焊接工作。也可能因操作失误造成零部件损坏，如果能顺利完成整个过程，就会得到过一款根据自己需求定制的键盘。</font></p><h2 id="轴体介绍"><a href="#轴体介绍" class="headerlink" title="轴体介绍"></a>轴体介绍</h2><p>市面上常见的机械轴体有红轴，黑轴，青轴，茶轴。机械轴体结构上盖轴心弹簧。底座及金属片不同，机械轴按下的手感区别很大，原因在于内部弹簧力度及内部结构设计。<br>红轴：2mm按压力度适中，直上直下响应迅速。<br>黑轴：1.5mm是所有轴体中段落感最不明显的。<br>青轴：2.4mm键程长段落感很强，打字噼里啪啦的。<br>茶轴：2mm万能轴，段落感较弱，手感比黑轴软。<br></p><h2 id="准备工具"><a href="#准备工具" class="headerlink" title="准备工具"></a>准备工具</h2><p><img src="http://ww1.sinaimg.cn/large/005Gmaf8gy1gfvo1pzhegj30s70sr42m.jpg" alt=""></p><h2 id="过程"><a href="#过程" class="headerlink" title="过程"></a>过程</h2><p><font size=3>&#160; &#160; &#160; &#160;建议购买质量好的品牌轴体，如国外的cherry或者国内的凯华轴，具体属性的轴体则根据自己的使用场景进行购买玩游戏建议选择黑轴。黑轴按压力度较大，不宜触碰打字都则建议青轴青轴段落感强，但敲击时声音大，贮蓄平衡则建议选择红轴。电烙铁建议选择60瓦左右恒温使用安全吸锡器，建议购买金属口型嬉戏时不易被落头烫绒。大部分机械键盘螺丝都隐藏在底部贴纸或脚垫下。拆卸时需私下才能看见键盘上下盖板有卡扣连接，分离时建议使用贴纸撬开，力度不宜过大，拆卸过程中建议戴上手套保护不被盖板边缘划伤。</font><br><img src="http://ww1.sinaimg.cn/large/005Gmaf8gy1gfvo388gwcj30pz20mk2o.jpg" alt=""></p><h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><p><font size=3>&#160; &#160; &#160; &#160;一款好用的机械键盘不单单是需要品质高的轴体，轴体好坏决定键盘使用寿命，而且搭配好的轴体则会提高使用感受，也就是所谓的手感。目前主流的键帽材料有ABS和PPT两种键帽,ABS手感细腻，价格便宜，缺点是长时间使用容易打油且容易磨损。PBT键帽，硬度及耐高温能力都强于ABS键帽，比ABS键帽更有弹性，缺点是价格高。</font></p>]]></content>
+    <content type="html"><![CDATA[<p><font size=3>&#160; &#160; &#160; &#160;机械键盘最大的乐趣来源于其可定制性，我们可以选择不同的键帽更换不同的轴体，甚至在某些情况下还可以更换机械键盘的USB线缆或微动控制器，完全打造一台属于自己的机械键盘。<br></font></p><a id="more"></a><p><font size=3>制作机械键盘需要的零件可能很贵，并且还需做很多焊接工作。也可能因操作失误造成零部件损坏，如果能顺利完成整个过程，就会得到过一款根据自己需求定制的键盘。</font></p><h2 id="轴体介绍"><a href="#轴体介绍" class="headerlink" title="轴体介绍"></a>轴体介绍</h2><p>市面上常见的机械轴体有红轴，黑轴，青轴，茶轴。机械轴体结构上盖轴心弹簧。底座及金属片不同，机械轴按下的手感区别很大，原因在于内部弹簧力度及内部结构设计。<br>红轴：2mm按压力度适中，直上直下响应迅速。<br>黑轴：1.5mm是所有轴体中段落感最不明显的。<br>青轴：2.4mm键程长段落感很强，打字噼里啪啦的。<br>茶轴：2mm万能轴，段落感较弱，手感比黑轴软。<br></p><h2 id="准备工具"><a href="#准备工具" class="headerlink" title="准备工具"></a>准备工具</h2><p><img src="http://ww1.sinaimg.cn/large/005Gmaf8gy1gfvo1pzhegj30s70sr42m.jpg" alt=""></p><h2 id="过程"><a href="#过程" class="headerlink" title="过程"></a>过程</h2><p><font size=3>&#160; &#160; &#160; &#160;建议购买质量好的品牌轴体，如国外的cherry或者国内的凯华轴，具体属性的轴体则根据自己的使用场景进行购买玩游戏建议选择黑轴。黑轴按压力度较大，不宜误触。打字都则建议青轴青轴段落感强，但敲击时声音大，若需平衡则建议选择红轴。电烙铁建议选择60瓦左右恒温使用安全，吸锡器建议购买金属口型操作时不易被烙头烫融。大部分机械键盘螺丝都隐藏在底部贴纸或脚垫下。拆卸时需撕下才能看见。键盘上下盖板有卡扣连接，分离时建议使用贴纸撬开，力度不宜过大，拆卸过程中建议戴上手套保护不被盖板边缘划伤。</font><br><img src="http://ww1.sinaimg.cn/large/005Gmaf8gy1gfvo388gwcj30pz20mk2o.jpg" alt=""></p><h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><p><font size=3>&#160; &#160; &#160; &#160;一款好用的机械键盘不单单是需要品质高的轴体，轴体好坏决定键盘使用寿命，而且搭配好的轴体则会提高使用感受，也就是所谓的手感。目前主流的键帽材料有ABS和PPT两种键帽,ABS手感细腻，价格便宜，缺点是长时间使用容易打油且容易磨损。PBT键帽，硬度及耐高温能力都强于ABS键帽，比ABS键帽更有弹性，缺点是价格高。</font></p>]]></content>
     
     <summary type="html">
     
@@ -126,6 +112,29 @@
     
     
       <category term="农业 电子商务" scheme="http://chuanputer.github.io/tags/%E5%86%9C%E4%B8%9A-%E7%94%B5%E5%AD%90%E5%95%86%E5%8A%A1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>老罗与锤</title>
+    <link href="http://chuanputer.github.io/2018/06/01/%E8%80%81%E7%BD%97%E4%B8%8E%E9%94%A4/"/>
+    <id>http://chuanputer.github.io/2018/06/01/%E8%80%81%E7%BD%97%E4%B8%8E%E9%94%A4/</id>
+    <published>2018-06-01T08:12:52.000Z</published>
+    <updated>2020-06-17T15:16:13.956Z</updated>
+    
+    <content type="html"><![CDATA[<p>锤子不硬，手机不行，相声不火，老罗已老？</p><a id="more"></a>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;锤子不硬，手机不行，相声不火，老罗已老？&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="campus" scheme="http://chuanputer.github.io/categories/campus/"/>
+    
+    
+      <category term="老罗 手机 锤子" scheme="http://chuanputer.github.io/tags/%E8%80%81%E7%BD%97-%E6%89%8B%E6%9C%BA-%E9%94%A4%E5%AD%90/"/>
     
   </entry>
   
